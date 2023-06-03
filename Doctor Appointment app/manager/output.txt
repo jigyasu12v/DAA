@@ -1,0 +1,5 @@
+('bar tender', 23, 'male', 'new delhi', 'hiv', '21 june', datetime.timedelta(seconds=17100), '91518181819')
+('gagan', 12, 'male', 'new delhi', 'liver problem', ' 15 june 2023', datetime.timedelta(seconds=9120), '987456312')
+('harsh', 21, 'female', 'new delhi', 'tb', '12 june', datetime.timedelta(seconds=14400), '79547888181')
+('jigyasu', 45, 'male', 'new delhi', 'covid', '12', datetime.timedelta(seconds=12), '9319151570')
+('pearl', 22, 'female', 'delhi', 'fever', '10 june', datetime.timedelta(seconds=23400), '9319151570')
